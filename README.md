@@ -7,7 +7,7 @@ Obrigado por participar do nosso desafio e pelo seu interesse em trabalhar conos
 ## Orientações
 
 - Faça o desafio sozinho;
-- Você poderá desenvolver seu frontend utilizando qualquer linguagem/framework;
+- Você poderá desenvolver seu frontend utilizando qualquer framework SPA;
 - Faça sua aplicação utilizando o padrão REST. Escolha bem os métodos, endpoints e status codes de retorno;
 - Crie um repositório **público** no GitHub;
 - Inicie seu projeto, crie suas branches e faça seus commits regularmente;
